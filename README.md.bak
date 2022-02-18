@@ -16,7 +16,8 @@ This repo. for testing list of features
 
 ## Getting started
 ```javascript
-//Clone the repo. 
+//Clone the repo. using the next command
+git clone https://github.com/waleedafifi90/americanMuscleCypress.git
 
 // Install the packages using npm
 npm install ci
@@ -36,6 +37,10 @@ npm install ci
 npx cypress open
 ```
 
+### Test Run video
+
+https://user-images.githubusercontent.com/57403758/146221964-47c4bba4-0129-4099-bda8-6f5dfe963ee4.mp4
+
 ### Test Run
 <img width="565" alt="Screen Shot 2021-12-15 at 6 03 48 PM" src="https://user-images.githubusercontent.com/57403758/146221298-edca485a-3957-47cf-b95a-779a4feaf5d4.png">
 
@@ -50,7 +55,10 @@ This project built using Page Object Model, each module has it's folder and each
 **Pages** export the actions and tests to be used in the spec. file
 
  ---
+ ### Part of work progress
+ ![IMG_4909](https://user-images.githubusercontent.com/57403758/146592085-876a1d41-f2eb-4892-ba6e-ced17bca3f07.png)
 
+ ---
 
 ### Spec. file
 you can find the file containing all tests in the following path

@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://www.americanmuscle.com/",
+  "chromeWebSecurity": false,
+  "videoCompression": false,
+  "defaultCommandTimeout": 10000,
+  "pageLoadTimeout": 120000,
+  "hideXHR": true,
+  "numTestsKeptInMemory": 0,
+  "viewportWidth": 1140
+}
